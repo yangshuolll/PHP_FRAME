@@ -1,3 +1,6 @@
-<div> header </div>
-<div> body </div>
-<div> footer </div>
+<meta charset="utf-  ">
+This is a homepage.
+<?php
+	test();
+
+?>
